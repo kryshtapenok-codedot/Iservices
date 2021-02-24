@@ -1,0 +1,20 @@
+// General
+@import 'includes/base/vars';
+@import 'includes/base/mixins';
+//@import 'includes/base/fonts';
+@import 'includes/base/utils';
+@import 'includes/base/global';
+
+// Blocks
+//@import 'includes/blocks/*';
+@import 'includes/blocks/home-popular-product';
+@import 'includes/blocks/home-product-with-banner';
+// Vendor
+//@import 'includes/vendor/**/*';
+
+// Templates
+//@import 'templates/*';
+
+// Core Templates
+@import 'footer.scss';
+@import 'header.scss';
